@@ -88,7 +88,7 @@ Feel free to reach out to me:
 
 ## 🌐 Links 
 
-- **Our research paper**: 
+- **Our research paper**: https://ieeexplore.ieee.org/document/10988252
 - **Dataset_1**: https://data.mendeley.com/datasets/4fx8cjprxm/1
 - **Dataset_2**: https://www.kaggle.com/datasets/pythonafroz/state-of-charge-and-state-of-health-of-batteries
 
